@@ -1,0 +1,13 @@
+#bru { 
+    background-color: rgb(51, 153, 51);
+    padding: 20px;
+}
+div {
+    background-color:rgb(243, 243, 187);
+    padding: 20px;
+}
+#meow {
+    position: sticky;
+    top: 0px;
+    background-color:rgb(243, 243, 187);
+}
